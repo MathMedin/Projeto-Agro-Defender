@@ -1,6 +1,6 @@
 # Agrinho-P5.JS
 
-Este projeto foi desenvolvido utilizando a biblioteca p5.js para criar um jogo interativo e educativo, onde o jogador assume o papel de um heroi, onde ele precisa derrotar as pragas que estão invandindo o planeta
+Este projeto foi desenvolvido utilizando a biblioteca p5.js para criar um jogo interativo e educativo, onde o jogador assume o papel de um heroi, onde ele precisa derrotar as pragas que estão invandindo o planeta e vão destruir a plantação....
 
 Como Jogar:
 
